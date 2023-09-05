@@ -6,7 +6,7 @@ export default function Layout(){
     return(
         <>
             <header>
-                <h1>@Contatinhos</h1>
+                <h1>Fimoses</h1>
                 <Navbar/>
             </header>
             <main>
